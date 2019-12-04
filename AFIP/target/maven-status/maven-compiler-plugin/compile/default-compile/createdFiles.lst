@@ -1,0 +1,5 @@
+com\example\AFIP\AfipApplication.class
+com\example\Controller\Controller.class
+com\example\Entity\UsuarioEntity.class
+com\example\Repository\Repository.class
+com\example\Entity\ImpuestosEntity.class
